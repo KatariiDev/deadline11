@@ -12,6 +12,13 @@ body {
     margin-bottom: 142px;
 }
 
+.header-c {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    width: 95%;
+}
+
 .header-ch {
     display: flex;
     max-width: 1283px;
