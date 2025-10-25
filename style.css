@@ -131,6 +131,7 @@ body {
     justify-content: space-between;
     max-width: 1300px;
     width: 100%;
+    gap: 48px;
 }
 
 .box-1__join--img-ch {
@@ -143,7 +144,6 @@ body {
     height: 391px;
     object-fit: cover;
     border-radius: 16px;
-    
 }
 
 .c-1-box-2 {
@@ -165,6 +165,7 @@ body {
 }
 
 .box-2__content {
+    height: fit-content;
     display: flex;
     gap: 61px;
     flex-direction: column;
@@ -260,7 +261,8 @@ body {
     font-weight: 400;
     font-size: 16px;
     line-height: 24px;
-    width: 623.5px;
+    max-width: 623.5px;
+    width: 100%;
 }
 
 .box-3__content--frame {
@@ -494,18 +496,18 @@ body {
     height: 245px;
     background-color: rgba(40, 94, 103, 1);
     display: flex;
-    max-width: 100%;
+    max-width: 1441px;
     width: 100%;
     align-items: center;
     justify-content: center;
+    margin: 0 auto;
 }
 
 .footer-ch {
     display: flex;
     flex-direction: column;
     gap: 36px;
-    width: 100%;
-    max-width: 1163px;
+    width: 80%;
 }
 
 .footer-ch-ch {
