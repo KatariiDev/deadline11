@@ -269,4 +269,8 @@
         align-items: center;
         justify-content: center;
     }
+
+    .footer-ch {
+        width: 75%;
+    }
 }
