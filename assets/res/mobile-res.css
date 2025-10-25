@@ -106,6 +106,13 @@
         gap: 25px;
     }
 
+    .box-3__content {
+        display: flex;
+        flex-direction: column;
+        height: 478px;
+        justify-content: space-between;
+    }
+
     .box-3__content-ch {
         padding-bottom: 16px;
         display: flex;
@@ -114,5 +121,37 @@
         align-items: center;
         text-align: center;
         gap: 16px;
+    }
+
+    .box-3__content-ch--title {
+        color: rgba(43, 43, 43, 1);
+        font-weight: 600;
+        font-size: 50.52px;
+        line-height: 62px;
+        max-width: 360px;
+        width: 100%;
+    }
+
+    .box-3__content-ch--text {
+        color: rgba(43, 43, 43, 1);
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 24px;
+        max-width: 360px;
+        width: 100%;
+    }
+
+    span {
+        display: none;
+    }
+
+    .b-3-frame__text {
+        color: rgba(42, 42, 42, 1);
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 24px;
+        max-width: 285px;
+        width: 100%;
+        color: rgba(40, 94, 103, 1);
     }
 }
