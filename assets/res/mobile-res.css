@@ -97,4 +97,22 @@
         height: 578px;
         border-radius: 16px;
     }
+
+    .c-1-box-3 {
+        flex-direction: column;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 25px;
+    }
+
+    .box-3__content-ch {
+        padding-bottom: 16px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        gap: 16px;
+    }
 }
