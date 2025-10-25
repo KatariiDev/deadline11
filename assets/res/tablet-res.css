@@ -248,16 +248,15 @@
 
     .footer-ch-ch {
         display: flex;
-        /* justify-content: space-between; */
-        /* align-items: center; */
+        justify-content: center;
+        align-items: normal;
         flex-direction: column;
         gap: 36px;
     }
 
     .footer__nav {
         display: flex;
-        /* justify-content: center; */
-        align-items: center;
+        justify-content: initial;
         gap: 40px;
     }
 
