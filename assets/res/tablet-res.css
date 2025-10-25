@@ -1,0 +1,6 @@
+@media only screen and (max-width: 1024px) {
+    .box-1__content--text {
+        max-width: 675px;
+        width: 100%;
+    }
+}
