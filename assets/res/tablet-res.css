@@ -12,6 +12,13 @@
         margin-bottom: 58px;
     }
 
+    .header-c {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 86%;
+    }
+
     .box-1__join--img { 
         display: flex;
         align-items: center;
