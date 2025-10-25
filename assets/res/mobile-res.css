@@ -1,0 +1,9 @@
+@media only screen and (max-width: 430px) {
+    .h-nav {
+        display: none;
+    }
+
+    .h-menu {
+        display: block;
+    }
+}

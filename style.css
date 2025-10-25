@@ -58,6 +58,10 @@ body {
     line-height: 24px;
 }
 
+.h-menu {
+    display: none;
+}
+
 .body {
     margin-bottom: 118px;
     display: flex;
